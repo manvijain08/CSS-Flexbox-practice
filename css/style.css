@@ -51,3 +51,28 @@
   padding: 20px;
   font-size: 30px;
 }
+
+.logo {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  font-size: 20px;
+}
+
+.log {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 30px;
+}
+
+.logo1 {
+  display: flex;
+  list-style: none;
+  font-size: 20px;
+}
+
+.logo2 {
+  margin-left: -0rem;
+  padding: 30px;
+}
