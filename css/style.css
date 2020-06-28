@@ -55,8 +55,8 @@
 .logo {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding-bottom: -100px;
+  align-items: flex-end;
+  /* padding-bottom: -100px; */
 }
 
 input,
@@ -72,7 +72,7 @@ select {
   align-items: center;
   height: 80px;
   font-size: 20px;
-  padding: 50px;
+  padding: 20px;
 }
 .image2 {
   height: 100px;
@@ -81,7 +81,7 @@ select {
 
 .heading {
   font-size: 20px;
-  padding: 100px;
+  padding: 50px;
 }
 
 .explore {
@@ -90,7 +90,7 @@ select {
 }
 
 .exp {
-  height: 200px;
+  height: 150px;
   width: 200px;
   padding: 2em;
   padding-top: 2em;
@@ -142,7 +142,8 @@ select {
 .Quality {
   display: flex;
   justify-content: space-evenly;
-  padding-top: 30px;
+  padding-top: 50px;
+  padding-bottom: 80px;
 }
 
 .develop {
