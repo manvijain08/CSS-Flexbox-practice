@@ -186,3 +186,25 @@ select {
   height: 400px;
   width: 350px;
 }
+
+.box {
+  width: 890px;
+  height: 380px;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: darkslategrey;
+  color: white;
+  /* padding: 30px; */
+}
+
+.small {
+  padding-top: 100px;
+  padding-left: 250px;
+}
+
+.last {
+  margin-top: 90px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
